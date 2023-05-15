@@ -1,4 +1,4 @@
-![alt text][(https://www.bipolardiscoveries.org/wp-content/themes/bd2/dist/images/logo_36cef2b0.png]
+![alt text](https://www.bipolardiscoveries.org/wp-content/themes/bd2/dist/images/logo_36cef2b0.png)
 
 # BD²
 
