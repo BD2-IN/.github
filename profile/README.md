@@ -2,11 +2,15 @@
 
 # BD²
 
+This collection of repos is meant to house the _code_ and _data_ supporting the BD² efforts, particularly the [*BD² Integrated Network*](https://www.bipolardiscoveries.org/integrated-network/)
+A collaborative system that will improve care, interventions, and outcomes for people living with bipolar disorder, and the [*BD² Data Platforms*](https://www.bipolardiscoveries.org/platforms/) where Clinical, Genetic, and Omics data, methods, and resources are to be shared with the bipolar disorder research community.
+
 ## Breakthrough Discoveries for _thriving with_ Bipolar Disorder
 
 BD² is a collective force transforming what we know about and how we treat bipolar disorder. It’s a commitment to the 40 million people living with bipolar disorder, those not yet diagnosed, and their loved ones.
 
 Learn more at [bipolardiscoveries.org](https://www.bipolardiscoveries.org/)
+
 
 
 <!--
